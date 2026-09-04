@@ -1,16 +1,107 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyadharshini</h1>
+<h3 align="center">Full Stack Developer | Java & Spring Boot | React</h3>
 
-<!--
-**Dharshini19-01/Dharshini19-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Java+%7C+Spring+Boot+%7C+React;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♀️ About Me
+
+- 🔭 I'm currently building full-stack apps using **Spring Boot + React**
+- 🌱 Currently sharpening my skills in **DSA and System Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL**
+- 📫 Reach me at: *your-email@example.com*
+- ⚡ Fun fact: I enjoy turning ideas into working products end-to-end
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-green?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-teal?style=for-the-badge)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+![STS IDE](https://img.shields.io/badge/STS%20IDE-green?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🖼️ Raw Badge Image Links (reference)
+
+Use these directly if you want to swap, resize, or reuse any badge elsewhere:
+
+- CSS3: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+- Java: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+- SQL: https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white
+- React: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+- Vite: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+- TailwindCSS: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+- SpringBoot: https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+- JDBC: https://img.shields.io/badge/JDBC-blue?style=for-the-badge
+- JWT: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white
+- Spring Data JPA: https://img.shields.io/badge/Spring%20Data%20JPA-green?style=for-the-badge&logo=spring&logoColor=white
+- REST API: https://img.shields.io/badge/REST%20API-teal?style=for-the-badge
+- MySQL: https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white
+- Git: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+- GitHub: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+- Postman: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+- IntelliJ IDEA: https://img.shields.io/badge/IntelliJIDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white
+- STS IDE: https://img.shields.io/badge/STS%20IDE-green?style=for-the-badge&logo=spring&logoColor=white
+- MySQL Workbench: https://img.shields.io/badge/MySQL%20Workbench-blue?style=for-the-badge&logo=mysql&logoColor=white
+- Vercel: https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white
+- Render: https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+- Cloudinary: https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white
+- Railway: https://img.shields.io/badge/Railway-black?style=for-the-badge
+
+---
+
+### 🔗 Connect With Me
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)
